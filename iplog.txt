@@ -1,0 +1,8 @@
+Date: 2023-06-19 07:01:25
+Local IP: 212.156.127.250
+Public IP: 212.156.127.250
+
+Date: 2023-06-19 07:02:12
+Local IP: Bad Gateway
+Public IP: 212.156.127.250
+
